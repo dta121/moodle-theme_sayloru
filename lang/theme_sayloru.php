@@ -24,6 +24,7 @@
 
 define('MOODLE_INTERNAL') || die();
 
+$string['pluginname'] = 'Saylor University';
 $string['rawscss'] = 'Raw SCSS';
 $string['rawscss_desc'] = 'Use this field to provide SCSS or CSS code which will be injected at the end of the style sheet.';
 $string['rawscsspre'] = 'Raw initial SCSS';
